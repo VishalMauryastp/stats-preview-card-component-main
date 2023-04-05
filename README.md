@@ -31,7 +31,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [get code 🌐](https://github.com/VishalMauryastp/stats-preview-card-component/)
+- Solution URL: [get code 🌐](https://github.com/VishalMauryastp/stats-preview-card-component-main.git)
 
 - Live Site URL: [preview 🌐](https://vishalmauryastp.github.io/stats-preview-card-component-main/)
 
